@@ -1,2 +1,1 @@
-# CommentsAnalyse_Of_ThreeBodies
-A Simple Sentiment Analysis of Animation Adaptaion "Three Bodies", which is based on Baidu Artificial Intelligence API.
+## 基于百度情绪倾向识别的艺画开天动画《三体》的舆论分析
