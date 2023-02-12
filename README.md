@@ -1,4 +1,4 @@
-## Sentiment Analysis of Films Based on Baidu Artificial Intelligence API: A Study on Public Opinion
+## Sentiment Analysis of Films Based on Baidu Artificial Intelligence API
 
 ### Intro
 Cinematic works, as one of the nine arts, have always been an essential part of people's entertainment. With the advancement of the internet, it has become easier for individuals to access high-quality works. With more cinematic works emerging, reviews have also become increasingly important as they reflect audiences' views and emotional attitudes, serving as a crucial indicator for evaluating the quality of the work. 
